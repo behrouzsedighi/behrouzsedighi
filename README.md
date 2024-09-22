@@ -43,7 +43,6 @@ Developed a fuzzy search module for the PayamGostar CRM system using webhooks. T
 - **Winner**: First Place in Industrial Automation Olympiad, Neyshabur and Khorasan Razavi (2018)
 
 ## 💼 Contact Information
-- **LinkedIn**: [Behrouz Sedighi](https://www.linkedin.com/in/behroz-sedighi/)
-- **GitHub**: [BehrozSedighi](https://github.com/behrozsedighi)
+- **LinkedIn**: [Behrouz Sedighi](https://www.linkedin.com/in/behrouz-sedighi/)
 - **Email**: behrozsedighisf@gmail.com
 - **Phone**: +98 933 551 8744
