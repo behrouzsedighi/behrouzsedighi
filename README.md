@@ -18,7 +18,7 @@ I am also the author of two technical books and have won multiple awards in nati
 - **Fourth place** in the National Industrial Automation Olympiad (2018)
 
 ## 📚 Projects
-### [LIWA Professional](https://liwa.pro/)
+### [LIWA](https://liwa.pro/)
 **Duration**: September 2023 – Present  
 **Role**: Backend Developer & Project Manager  
 LIWA Professional is an AI-powered platform where users engage in real-time conversations with GPT-based models for professional advice, problem-solving, and workflow management. As the backend developer and project manager, I led the development using NestJS and MongoDB, ensuring efficient, scalable architecture. My focus was on optimizing AI interactions and seamless integration of natural language processing (NLP) features to enhance user experience.
